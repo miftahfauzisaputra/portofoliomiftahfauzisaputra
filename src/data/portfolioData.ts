@@ -317,21 +317,21 @@ export const EXPERIENCES: Experience[] = [
     highlights: [
       'Memimpin perancangan dan implementasi kampanye periklanan digital omnichannel untuk brand interior premium.',
       'Mengoptimalkan Meta Ads dan TikTok Ads terfokus pada akuisisi lead klien residensial high-end dan komersial.',
-      'Bekerja sama erat dengan tim arsitektur interior untuk memproduksi konten video showcase dan tour ruang 3D.',
-      'Meningkatkan efisiensi belanja iklan dengan average ROAS mencapai lebih dari 4.8x.'
+      'Mengembangkan strategi digital content & storytelling spesifik industri interior (showcase transformasi ruangan before-after dan edukasi material custom) untuk membangun brand awareness serta kepercayaan calon klien.',
+      'Mengoptimalkan digital marketing funnel dari periklanan media sosial menuju saluran konsultasi desain, guna meningkatkan konversi prospek menjadi booking survei lokasi proyek interior.'
     ]
   },
   {
     period: '2023 - 2026',
-    role: 'Digital Marketing & Advertising Specialist',
+    role: 'Digital Marketing',
     company: '7 Furniture',
     location: 'Indihiang, Tasikmalaya',
-    type: 'Full-time Specialist (3 Tahun Pengalaman)',
+    type: 'Full-time (3 Tahun Pengalaman)',
     highlights: [
-      'Mengelola anggaran iklan digital di Meta Ads, TikTok Ads, Shopee Ads, dan Tokopedia Ads secara menyeluruh.',
-      'Menaikkan volume pesanan custom furniture dan kitchen set hingga +240% melalui targeted audience testing.',
-      'Memimpin pembuatan konten visual: fotografi katalog produk, video demonstrasi kekuatan material, dan reels informatif.',
-      'Menerapkan pelacakan konversi presisi ke saluran WhatsApp Business untuk penutupan transaksi (closing).'
+      'Mengelola social media organik mulai dari merencanakan konsep konten, produksi konten, proses editing video & foto, hingga posting serta membangun engagement dengan audiens.',
+      'Menjalankan dan mengoptimalkan kampanye Meta Ads (Facebook & Instagram Ads), mulai dari riset target audiens, penyusunan materi visual & copywriting iklan, hingga monitoring efisiensi biaya konversi lead.',
+      'Melakukan pengambilan footage (foto & video) langsung di workshop maupun lokasi instalasi interior, mencakup penataan sudut kamera (angle), pencahayaan sinematik, dan dokumentasi detail produk furniture custom.',
+      'Mendesain aset design grafis untuk materi promosi digital, feed media sosial, banner penawaran khusus, e-katalog produk, hingga cover video reels dengan identitas visual yang profesional.'
     ]
   },
   {
