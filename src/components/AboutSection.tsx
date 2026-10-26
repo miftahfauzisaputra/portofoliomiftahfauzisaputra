@@ -56,7 +56,7 @@ export default function AboutSection() {
               <div className="relative aspect-[3/4] sm:aspect-[4/5] w-full rounded-xl overflow-hidden bg-zinc-900 shadow-inner">
                 <img
                   src={PERSONAL_INFO.avatar}
-                  alt={PERSONAL_INFO.name}
+                  alt="Foto Profil Miftah Fauzi Saputra (Miftah Fauzi) - Digital Marketing & Advertising Specialist"
                   className="w-full h-full object-cover object-[center_30%] sm:object-[center_28%] filter contrast-[1.02] transition-transform duration-700 group-hover:scale-105"
                   loading="lazy"
                 />

@@ -1,0 +1,6 @@
+# Robots.txt for Miftah Fauzi Saputra Portfolio
+User-agent: *
+Allow: /
+
+# Sitemaps
+Sitemap: /sitemap.xml
